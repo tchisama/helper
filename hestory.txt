@@ -1,0 +1,76 @@
+
+
+---------------
+---------------
+
+question:how install deb files
+answer:sudo dpkg -i <file_name>.deb
+
+
+
+---------------
+---------------
+
+question:how install deb files
+answer:sudo dpkg -i filename.deb
+
+
+
+---------------
+---------------
+
+question:
+    make me a file that contain a react button
+answer:
+    echo '<button>Click me</button>' > button.html
+
+
+
+---------------
+---------------
+
+question:
+    how to close a window
+answer:
+    xkill
+
+
+
+---------------
+---------------
+
+question:
+    how to see programs runing now
+answer:
+    ps aux
+
+
+
+---------------
+---------------
+
+question:
+    how to delete .git file
+answer:  
+    rm -rf .git
+
+
+
+---------------
+---------------
+
+question:
+    how to show what remote link i use in git
+answer:  
+    git remote -v
+
+
+
+---------------
+---------------
+
+question:
+    how to remove remote in git
+answer:  
+    git remote remove remote_name
+

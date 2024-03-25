@@ -6,7 +6,7 @@ import { exec } from "child_process";
 import chalk from "chalk";
 
 const openai = new OpenAI({
-  apiKey: "",
+  apiKey: "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",
 });
 
 const args = process.argv.slice(2);
